@@ -1,0 +1,19 @@
+{
+  "name": "NodejsDeploy",
+  "version": "0.0.1",
+  "description": "Test site",
+  "main": "index.js",
+  "authors": {
+    "name": "Michael Crump",
+    "email": "mbcrump29@gmail.com"
+  },
+  "repository": "https://github.com/mbcrump/vuepressdeploy.git/NodejsDeploy",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
